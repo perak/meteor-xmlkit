@@ -13,4 +13,4 @@ XSLT = npm.require("libxmljs");
 XML = npm.require("node_xslt");
 ```
 
-You don't need to include any npm packages, just use XSLT and XML objects in your program.
+(You don't need to include any npm packages, just use XSLT and XML objects in your program)
