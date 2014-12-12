@@ -1,0 +1,9 @@
+{
+	"name": "xmlkit",
+	"description": "node_xslt and libxmljs packaged for Meteor",
+	"homepage": "https://github.com/perak/meteor-xmlkit",
+	"author": "Petar Korponaic",
+	"version": "1.0.0",
+	"git": "https://github.com/perak/meteor-xmlkit.git",
+	"packages": {}
+}
