@@ -9,7 +9,7 @@ if(!Package.onUse) Package.onUse = Package.on_use;
 
 Npm.depends({
 	node_xslt: "0.1.9",
-	libxmljs: "0.12.0"
+	libxmljs: "0.14.0"
 });
 
 Package.onUse(function(api) {
