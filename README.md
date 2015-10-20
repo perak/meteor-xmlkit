@@ -9,8 +9,8 @@ Package exposes two objects: XSLT (node_xslt) and XML (libxmljs) - server side o
 Effect is the same as you did:
 
 ```
-XSLT = npm.require("libxmljs");
-XML = npm.require("node_xslt");
+XML = npm.require("libxmljs");
+XSLT = npm.require("node_xslt");
 ```
 
 (You don't need to include any npm packages, just use XSLT and XML objects in your program)
